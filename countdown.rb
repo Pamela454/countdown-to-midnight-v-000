@@ -9,5 +9,7 @@ end
   end
 
 def countdown_with_sleep(integer)
-
+while integer > 0
+  puts "#{integer} SECOND(S)!"
+  
 end
