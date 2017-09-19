@@ -14,3 +14,5 @@ while integer > 0
   sleep(1.second)
   integer -= 1
 end
+"HAPPY NEW YEAR!"
+end
